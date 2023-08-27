@@ -15,3 +15,5 @@
 En el repositorio incluyo notas (en postits) del proyecto. Parece que utilizaba un programa conversor y otro desconversor hexadecimal en cada ordenador extremo (por lo que se ve en las notas). Incluyo en el repositorio esos programas, en PDF, que están realizados en PASCAL.
 
 ![image](https://github.com/aalonsopuig/Comunicacion_serial_3_PCs_1987/assets/57196844/5e8c872a-2e82-4370-b973-f429bc9d2790)
+
+También se utilizaba el programa "Envia" para enviar el fichero, escrito en PASCAL e incluido en el repositorio. Este programa se utilizaba en el PC que iba a enviar el fichero.
